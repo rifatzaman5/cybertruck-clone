@@ -2,7 +2,7 @@
 
 This project is a landing page for the Cybertruck, featuring a modern design with multiple sections and smooth animations. The page includes a header, hero section, features, specifications, order information, and a footer.
 
-- [Installation](#installation)![Screenshot](https://github.com/user-attachments/assets/14f04f82-c4e0-4d61-8f5a-5d8890e30539)
+- [Screenshot](https://github.com/user-attachments/assets/14f04f82-c4e0-4d61-8f5a-5d8890e30539)
 
 
 ## Table of Contents
